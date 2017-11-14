@@ -33,7 +33,7 @@ Visual Studio Community 2017
 
 ## Acknowledgments
 
-* hitechbunny
-* Leech Detector
-* WaniKaniApiSharp
-* Screensaver tutorial...
+* [Doublevil]'s WaniKaniApiSharp (https://github.com/WaniKani/WaniKaniApiSharp)
+* Frank McCown's *Creating a Screen Saver with C#* (https://www.harding.edu/fmccown/screensaver/screensaver.html)
+* hitechbunny (WK Community) - Alternate leech calculation & screensaver style
+* Leech Detector by StellaTerra (WK Community)
