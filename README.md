@@ -8,7 +8,6 @@ A screensaver to show your leeches.
 * Open the solution in Visual Studio Community 2017
 * Build the solution
 * Navigate to the build directory
-* Rename the .exe file to .scr
 * Right click the .scr file
 * Click install
 * Click Settings...
