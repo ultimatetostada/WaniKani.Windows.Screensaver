@@ -25,6 +25,7 @@ Visual Studio Community 2017
 ## Built With
 
 * Visual Studio Community 2017 (C#)
+* WaniKaniApiSharp
 
 ## Authors
 
@@ -34,4 +35,5 @@ Visual Studio Community 2017
 
 * hitechbunny
 * Leech Detector
+* WaniKaniApiSharp
 * Screensaver tutorial...
